@@ -7,9 +7,9 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="fixed top-7 left-1/2 -translate-x-1/2 px-4 sm:px-16 rounded-full overflow-hidden border-teal-800 border-[0.5px] bg-gray-950/50 backdrop-blur-sm shadow-md z-50 w-[90vw] sm:w-auto">
+    <nav className="fixed top-7 left-1/2 -translate-x-1/2 rounded-full overflow-hidden border-teal-800 border-[0.5px] bg-gray-950/50 backdrop-blur-sm shadow-md z-50 w-[calc(100%-2rem)] sm:w-auto px-6 sm:px-16">
       <div className="max-w-7xl mx-auto py-4 flex justify-center">
-        <div className="space-x-10 sm:space-x-14 md:space-x-20 flex">
+        <div className="flex space-x-10 md:space-x-20">
           {links.map((link, idx) => (
             <a
               key={idx}
