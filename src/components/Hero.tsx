@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       id="hero"
       className="pt-50 pb-30 flex flex-col justify-center items-center text-center px-8 md:px-20"
     >
-      <h1 className="text-4xl md:text-6xl font-bold mb-5">
+      <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-5">
         Hello, I'm <span className="text-teal-500">Almir</span>
       </h1>
 
