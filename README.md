@@ -1,6 +1,6 @@
 # My Portfolio Page
 
-Live site: [https://almir-hysenaj.github.io/Portfolio/](https://almir-hysenaj.github.io/Portfolio/))
+Live site: [https://almir-hysenaj.github.io/Portfolio/](https://almir-hysenaj.github.io/Portfolio/)
 
 # React + TypeScript + Vite
 
