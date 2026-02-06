@@ -8,7 +8,7 @@ const Footer = () => {
       </p>
 
       {/* Contact links */}
-      <div className="flex space-x-6">
+      <div className="max-w-full md:max-w-7xl flex flex-wrap justify-center gap-4 md:gap-8">
         {/* Email */}
         <a
           href="mailto:almir.hysenaj@outlook.com"

@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
       </h1>
 
       {/* Contact links */}
-      <div className="max-w-7xl mb-7 px-8 py-4 flex justify-center space-x-8">
+      <div className="max-w-full md:max-w-7xl mb-7 py-4 flex flex-wrap justify-center gap-4 md:gap-8">
         {/* Email */}
         <a
           href="mailto:almir.hysenaj@outlook.com"
