@@ -13,7 +13,7 @@ const Skills = () => {
     <div id="skills" className="pt-10 pb-30 px-8 md:px-20">
       {/* Section title */}
       <h2 className="text-teal-500 text-center text-3xl md:text-4xl font-bold mb-10">
-        Skills
+        Technical Skills
       </h2>
 
       {/* Skill badges */}
